@@ -9,11 +9,12 @@
 * 파이썬(Python)
 * 테서렉트(tesseract)
 * 오픈CV(OpenCV)
-* RDBMS(MySQL)
+* 데이터베이스(MySQL)
+* 파이큐티(PyQt5)
 
 
-### 예제 코드 출처:
+### 참고 Site:
 ![wfw1](https://user-images.githubusercontent.com/78195880/108957258-81df0680-76b4-11eb-9162-5132050bc629.png)
 ![wfwffw1](https://user-images.githubusercontent.com/78195880/108957255-81467000-76b4-11eb-881d-6fbd3d91d3b1.png)
 
-##### https://github.com/kairess/license_plate_recognition
+##### https://github.com/kairess/license_plate_recognition (

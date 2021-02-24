@@ -9,3 +9,5 @@
 * 테서렉트(tesseract)
 * 오픈CV(OpenCV)
 * 데이터베이스(D
+
+### 출처:

@@ -9,7 +9,7 @@
 * 파이썬(Python)
 * 테서렉트(tesseract)
 * 오픈CV(OpenCV)
-* 데이터베이스(D
+* RDBMS(MySQL)
 
 
 ### 예제 코드 출처:
